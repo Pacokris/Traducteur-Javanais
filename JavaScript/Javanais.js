@@ -43,7 +43,7 @@ console.log("exemple devient --> " + francaisEnJavanais("exemple"));
 console.log("au devient --> " + francaisEnJavanais("au"));
 
 
-
+/* Transforme la chaine de caractère 'mot' en une nouvelle chaine française */
 function javanaisEnFrancais(mot) {
     let javanaisEnFrancais = mot;
 
